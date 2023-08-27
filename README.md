@@ -1,4 +1,4 @@
-### Hi, I’m Yulia Starchenko – frontend-developer (React).
+### Hi, I’m Yulia Starchenko – frontend-developer (React, Redux/Redux Toolkit, Next.js, TypeScript).
 Connect with me in [telegram](http://t.me/julia_amake) or [linkedin](https://www.linkedin.com/in/julia-amake/).
 
 
