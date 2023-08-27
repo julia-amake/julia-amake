@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I’m Yulia Starchenko – frontend-developer (React).
+# Connect with me in [telegram](http://t.me/julia_amake) or [linkedin](https://www.linkedin.com/in/julia-amake/).
+
 
 <!--
 **julia-amake/julia-amake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
