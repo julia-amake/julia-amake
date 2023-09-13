@@ -1,11 +1,11 @@
 #### Hi, I’m Yulia Starchenko – frontend-developer (React, Redux/RTK, Next.js, TypeScript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-amake&layout=donut&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
-
 Connect with me in [telegram](http://t.me/julia_amake) or [linkedin](https://www.linkedin.com/in/julia-amake/).
 
 <!--
 **julia-amake/julia-amake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-amake&layout=donut&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
